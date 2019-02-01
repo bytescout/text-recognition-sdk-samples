@@ -5,18 +5,18 @@
 \VB.NET
 \VBScript and VB6
 \C#\Extract Text From Areas
-\C#\Recognize text from document
+\C#\Recognize Text From Document
 \C#\Use Image Preprocessing Filters
 \C#\Use Text Auto Corrections
 \PowerShell\Extract Text From Areas
-\PowerShell\Recognize text from image
+\PowerShell\Recognize Text from Image
 \PowerShell\Set Image Preprocessing Filters
 \PowerShell\Set Text Auto Corrections
 \VB.NET\Extract Text From Areas
-\VB.NET\Recognize text from image document
+\VB.NET\Recognize Text from Image Document
 \VB.NET\Use Auto Corrections for Text
 \VB.NET\Use Image Preprocessing Filters
-\VBScript and VB6\Extract Text From image Areas
-\VBScript and VB6\Recognize text from images
+\VBScript and VB6\Extract Text From Image Areas
+\VBScript and VB6\Recognize Text from Images
 \VBScript and VB6\Set Auto Corrections for Text
-\VBScript and VB6\Use Image Preprocessing Filters for document
+\VBScript and VB6\Use Image Preprocessing Filters for Document
