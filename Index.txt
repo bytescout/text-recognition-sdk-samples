@@ -9,14 +9,14 @@
 \C#\Use Image Preprocessing Filters
 \C#\Use Text Auto Corrections
 \PowerShell\Extract Text From Areas
-\PowerShell\Recognize Text from Image
-\PowerShell\Set Image Preprocessing Filters
-\PowerShell\Set Text Auto Corrections
+\PowerShell\Recognize Text From Document
+\PowerShell\Use Image Preprocessing Filters
+\PowerShell\Use Text Auto Corrections
 \VB.NET\Extract Text From Areas
-\VB.NET\Recognize Text from Image Document
-\VB.NET\Use Auto Corrections for Text
+\VB.NET\Recognize Text From Document
 \VB.NET\Use Image Preprocessing Filters
-\VBScript and VB6\Extract Text From Image Areas
-\VBScript and VB6\Recognize Text from Images
-\VBScript and VB6\Set Auto Corrections for Text
-\VBScript and VB6\Use Image Preprocessing Filters for Document
+\VB.NET\Use Text Auto Corrections
+\VBScript and VB6\Extract Text From Areas
+\VBScript and VB6\Recognize Text From Document
+\VBScript and VB6\Use Image Preprocessing Filters
+\VBScript and VB6\Use Text Auto Corrections
