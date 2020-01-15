@@ -6,17 +6,21 @@
 \VBScript and VB6
 \C#\Extract Text From Areas
 \C#\Recognize Text From Document
+\C#\Screen Text Reader
 \C#\Use Image Preprocessing Filters
 \C#\Use Text Auto Corrections
 \PowerShell\Extract Text From Areas
 \PowerShell\Recognize Text From Document
+\PowerShell\Screen Text Reader
 \PowerShell\Use Image Preprocessing Filters
 \PowerShell\Use Text Auto Corrections
 \VB.NET\Extract Text From Areas
 \VB.NET\Recognize Text From Document
+\VB.NET\Screen Text Reader
 \VB.NET\Use Image Preprocessing Filters
 \VB.NET\Use Text Auto Corrections
 \VBScript and VB6\Extract Text From Areas
 \VBScript and VB6\Recognize Text From Document
+\VBScript and VB6\Screen Text Reader
 \VBScript and VB6\Use Image Preprocessing Filters
 \VBScript and VB6\Use Text Auto Corrections
