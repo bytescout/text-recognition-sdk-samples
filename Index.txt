@@ -4,6 +4,7 @@
 \PowerShell
 \VB.NET
 \VBScript and VB6
+\C#\Download and Process file
 \C#\Extract Text From Areas
 \C#\Recognize Text From Document
 \C#\Screen Text Reader
@@ -14,6 +15,7 @@
 \PowerShell\Screen Text Reader
 \PowerShell\Use Image Preprocessing Filters
 \PowerShell\Use Text Auto Corrections
+\VB.NET\Download and Process file
 \VB.NET\Extract Text From Areas
 \VB.NET\Recognize Text From Document
 \VB.NET\Screen Text Reader
