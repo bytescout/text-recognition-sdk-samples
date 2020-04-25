@@ -7,6 +7,8 @@
 \C#\Download and Process file
 \C#\Extract Text From Areas
 \C#\Recognize Text From Document
+\C#\Save OCR Objects As JSON
+\C#\Save OCR Objects As XML
 \C#\Screen Text Reader
 \C#\Use Image Preprocessing Filters
 \C#\Use Text Auto Corrections
@@ -18,6 +20,8 @@
 \VB.NET\Download and Process file
 \VB.NET\Extract Text From Areas
 \VB.NET\Recognize Text From Document
+\VB.NET\Save OCR Objects As JSON
+\VB.NET\Save OCR Objects As XML
 \VB.NET\Screen Text Reader
 \VB.NET\Use Image Preprocessing Filters
 \VB.NET\Use Text Auto Corrections
