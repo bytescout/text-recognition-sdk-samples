@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \C#
+\Delphi
 \PowerShell
 \VB.NET
 \VBScript and VB6
@@ -12,6 +13,10 @@
 \C#\Screen Text Reader
 \C#\Use Image Preprocessing Filters
 \C#\Use Text Auto Corrections
+\Delphi\Extract Text From Areas
+\Delphi\Recognize Text From Document
+\Delphi\Save OCR Objects As JSON
+\Delphi\Use Text Auto Corrections
 \PowerShell\Extract Text From Areas
 \PowerShell\Recognize Text From Document
 \PowerShell\Screen Text Reader
